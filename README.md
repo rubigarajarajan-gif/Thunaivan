@@ -177,10 +177,18 @@ B.E. Computer Science and Engineering — Second Year
 College of Engineering Guindy, Anna University, Chennai
 
 ---
+## 📄 Copyright
 
-## 📄 License
+© 2025 Rubiga PR. All Rights Reserved.
 
-This project is open source and available under the [MIT License](LICENSE).
+This project and its source code are the intellectual 
+property of Rubiga PR. Viewing is permitted for educational 
+and reference purposes only. Copying, modifying, distributing, 
+or using any part of this code without explicit written 
+permission from the author is strictly prohibited.
+
+Built as part of B.E. Computer Science and Engineering —
+College of Engineering Guindy, Anna University, Chennai.
 
 ---
 
