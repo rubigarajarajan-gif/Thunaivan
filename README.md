@@ -173,7 +173,7 @@ Thunaivan is not just a mini project. It is a platform built so that no Tamil Na
 ## 👩‍💻 Developer
 
 **Rubiga PR**
-B.E. Computer Science and Engineering — Second Year
+B.E. Computer Science and Engineering — Third Year
 College of Engineering Guindy, Anna University, Chennai
 
 ---
